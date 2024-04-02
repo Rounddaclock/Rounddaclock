@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Rounddaclock
-- 👀 I’m interested in ...melissa holmes
-- 🌱 I’m currently learning ...beginners
+- 👋 Hi, I’m @Roundd
 - 💞️ I’m looking to collaborate on ...remote connection iphone
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
